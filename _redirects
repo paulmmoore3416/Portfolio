@@ -1,0 +1,10 @@
+# Netlify Redirects Configuration
+
+# Force HTTPS
+http://*.paulmmoore.com/* https://:splat 301!
+
+# Remove trailing slashes
+/* /:splat 301!
+
+# SPA fallback (if needed in future)
+/* /index.html 200

@@ -1,0 +1,37 @@
+{
+  "name": "paul-moore-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Paul Mitcheal Moore - AWS Solutions Architect, CTO, and Full-Stack Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server --port=8000",
+    "deploy": "echo 'Deploy to your hosting provider'",
+    "test": "echo 'No tests configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulmmoore3416/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "aws",
+    "solutions-architect",
+    "full-stack",
+    "developer",
+    "cto",
+    "cloud-computing",
+    "blockchain",
+    "bitcoin-mining"
+  ],
+  "author": {
+    "name": "Paul Mitcheal Moore",
+    "email": "paulmmoore3416@gmail.com",
+    "url": "https://www.linkedin.com/in/paulmooretux"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulmmoore3416/portfolio/issues"
+  },
+  "homepage": "https://yourdomain.com"
+}
